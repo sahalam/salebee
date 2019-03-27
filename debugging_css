@@ -1,0 +1,8 @@
+.kendoMultiSelectWrap label {
+	margin-bottom: 15px !important;
+}
+.task .creat-task .modal-body,
+.task .creat-task form,
+#myBusinessYearModal form {
+	overflow: inherit !important;	
+}
